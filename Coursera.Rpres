@@ -31,14 +31,30 @@ The application must include the following:
 
 Project Summary
 ========================================================
-
-The idea was to develop a very simple Linear Regressiona Analysis Application 
+The idea was to develop a very simple Linear Regression Analysis Application 
 
 - The application presents a user interface to upload a CSV file with the variables names in the header
 - The UI allows the user to choose which is the separator of the variables and the quotes
 - Uploaded the file, the system presents to the user, a list of the names of the variables
 - At the bottom of the left pane is presented an input field for the user to insert which of the variables is the outcome for the linear regression analysis
 - Based on this information, the application finds the best fitted model and presents the summary of the model
+
+
+Application location
+========================================================
+
+
+The application may be found at :
+
+https://cdamasceno.shinyapps.io/FIRSTONE
+
+The code for the application and this presentation my be found at 
+
+https://github.com/cdamasceno/DataProducts
+
+This presentation is published at my profile, in Rpubs
+
+http://rpubs.com/cdamasceno/
 
 The application has a limitation, that for each new model to be constructed, the file must be uploaded again
 
